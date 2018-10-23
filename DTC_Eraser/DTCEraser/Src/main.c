@@ -69,7 +69,7 @@ static void MX_USART2_UART_Init(void);
 /**
   * @brief  The application entry point.
   *
-  * @retval Nonea
+  * @retval Noneabc
   */
 int main(void)
 {
