@@ -16,5 +16,5 @@
 int main(void)
 {
 
-	for(;;); //elo witam serdecznie
+	for(;;); //elo witam serdecznie tutaj
 }
